@@ -1,4 +1,4 @@
-def division(a,b):
+def divide(a,b):
     if (b==0):
         print("Erreur")    
     else:
